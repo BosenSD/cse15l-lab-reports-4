@@ -1,7 +1,6 @@
-start
-
-
 ## Step 4: Log into ieng6
+
+![Image](report7_4.png)
 
 **key pressed:** 
 
@@ -13,6 +12,8 @@ start
 
 ## Step 5: Clone your fork of the repository from your Github account (using the SSH URL)
 
+![Image](report7_5.png)
+
 **key pressed:** 
 
 `git<space>clone<space>https://github.com/BosenSD/lab7<enter>`
@@ -22,6 +23,8 @@ start
 `git clone` takes my `https://github.com/BosenSD/lab7<enter>` git repository and clone it into the my account on ieng6 server.
 
 ## Step 6: Run the tests, demonstrating that they fail
+
+![Image](report7_6.png)
 
 **key pressed:** 
 
@@ -37,6 +40,10 @@ I use `bash` command executing bash code in `test.sh` file. This file compile my
 
 ## Step 7: Edit the code file to fix the failing test
 
+![Image](report7_7p1.png)
+
+![Image](report7_7p2.png)
+
 **key pressed:** 
 
 `vim<space>ListExamples.java` 
@@ -51,6 +58,8 @@ Then, I come into the vim editor interface. `:set<space>nu<enter>` key presses f
 
 ## Step 8: Run the tests, demonstrating that they now succeed
 
+![Image](report7_8.png)
+
 **key pressed:** 
 
 `bash<space>test.sh<enter>`
@@ -60,6 +69,8 @@ Then, I come into the vim editor interface. `:set<space>nu<enter>` key presses f
 This step is similar to step 6. I use `bash` command executing bash code in `test.sh` file. This file compile my java files and run them. This time all tests passed.
 
 ## Step 9: Commit and push the resulting change to your Github account (you can pick any commit message!)
+
+![Image](report7_9.png)
 
 **key pressed:** 
 
